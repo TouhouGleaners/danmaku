@@ -1,0 +1,22 @@
+BEGIN TRANSACTION;
+CREATE TABLE fetch_log (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    cid BIGINT NOT NULL UNIQUE,
+    danmuku_num INTEGER NOT NULL DEFAULT 0,
+    fetch_time TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
+    FOREIGN KEY (cid) REFERENCES video(cid)
+        ON DELETE CASCADE
+        ON UPDATE CASCADE
+);
+CREATE TABLE video (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    avid BIGINT,
+    bvid TEXT,
+    cid BIGINT NOT NULL UNIQUE,
+    mid TEXT,
+    title TEXT,
+    description TEXT,
+    cover_url TEXT
+);
+DELETE FROM "sqlite_sequence";
+COMMIT;
