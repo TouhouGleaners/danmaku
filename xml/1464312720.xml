@@ -3,10 +3,10 @@
 	<chatserver>chat.bilibili.com</chatserver>
 	<chatid>1464312720</chatid>
 	<mission>0</mission>
-	<maxlimit>300</maxlimit>
+	<maxlimit>100</maxlimit>
 	<state>0</state>
 	<real_name>0</real_name>
 	<source>k-v</source>
-	<d p="9.51400,1,25,16777215,1711381871,0,3ea31ae8,1545942205347267072,10">山田凉</d>
-	<d p="10.43000,1,25,16777215,1728805170,0,fb03a4db,1692099428292946176,5">Tasted You（多意义）</d>
+	<d p="10.43000,1,25,16777215,1728805170,0,fb03a4db,1692099428292946176,10">Tasted You（多意义）</d>
+	<d p="9.51400,1,25,16777215,1711381871,0,3ea31ae8,1545942205347267072,9">山田凉</d>
 </i>

@@ -3,9 +3,9 @@
 	<chatserver>chat.bilibili.com</chatserver>
 	<chatid>1514165072</chatid>
 	<mission>0</mission>
-	<maxlimit>300</maxlimit>
+	<maxlimit>100</maxlimit>
 	<state>0</state>
 	<real_name>0</real_name>
 	<source>k-v</source>
-	<d p="1.77900,1,25,16777215,1713899998,0,9ffd5dae,1567065778413432064,10">做鬼都要打工</d>
+	<d p="1.77900,1,25,16777215,1713899998,0,9ffd5dae,1567065778413432064,1">做鬼都要打工</d>
 </i>

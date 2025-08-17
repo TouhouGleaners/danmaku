@@ -3,9 +3,9 @@
 	<chatserver>chat.bilibili.com</chatserver>
 	<chatid>1302468403</chatid>
 	<mission>0</mission>
-	<maxlimit>1000</maxlimit>
+	<maxlimit>100</maxlimit>
 	<state>0</state>
 	<real_name>0</real_name>
 	<source>k-v</source>
-	<d p="113.33000,5,25,16707842,1697554096,0,ec210866,1429946417677440512,10">这里有点像徐伦处刑曲</d>
+	<d p="113.33000,5,25,16707842,1697554096,0,ec210866,1429946417677440512,1">这里有点像徐伦处刑曲</d>
 </i>
