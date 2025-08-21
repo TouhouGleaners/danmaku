@@ -858,10 +858,10 @@
 {"id": -1534956032, "progress": 254204, "mode": 4, "fontsize": 25, "color": 16707843, "midHash": "6113a6fa", "content": "彗星【Blazing Star】", "ctime": 1746157832, "weight": 2, "idStr": "1837664106098880000"}
 {"id": 1040497920, "progress": 254204, "mode": 4, "fontsize": 25, "color": 16707843, "midHash": "6113a6fa", "content": "彗星【Blazing Star】", "ctime": 1746157852, "weight": 2, "idStr": "1837664276178058496"}
 {"id": -1274713088, "progress": 280900, "mode": 5, "fontsize": 25, "color": 15138835, "midHash": "6113a6fa", "content": "来了！！！", "ctime": 1746157872, "weight": 2, "idStr": "1837664445661539328"}
-{"id": 965071104, "progress": 282340, "mode": 5, "fontsize": 25, "color": 15138835, "midHash": "6113a6fa", "content": "【梦想天生】", "ctime": 1746157893, "weight": 10, "idStr": "1837664615405048064"}
-{"id": -1308375040, "progress": 282340, "mode": 5, "fontsize": 25, "color": 15138835, "midHash": "6113a6fa", "content": "【梦想天生】", "ctime": 1746157913, "weight": 2, "idStr": "1837664784930293760"}
-{"id": 1015676160, "progress": 282340, "mode": 5, "fontsize": 25, "color": 15138835, "midHash": "6113a6fa", "content": "【梦想天生】", "ctime": 1746157933, "weight": 10, "idStr": "1837664954758069504"}
-{"id": -578076672, "progress": 282340, "mode": 5, "fontsize": 25, "color": 15138835, "midHash": "6113a6fa", "content": "【梦想天生】", "ctime": 1746157953, "weight": 2, "idStr": "1837665124963008512"}
+{"id": 965071104, "progress": 282340, "mode": 5, "fontsize": 25, "color": 15138835, "midHash": "6113a6fa", "content": "【梦想天生】", "ctime": 1746157893, "weight": 2, "idStr": "1837664615405048064"}
+{"id": -1308375040, "progress": 282340, "mode": 5, "fontsize": 25, "color": 15138835, "midHash": "6113a6fa", "content": "【梦想天生】", "ctime": 1746157913, "weight": 10, "idStr": "1837664784930293760"}
+{"id": 1015676160, "progress": 282340, "mode": 5, "fontsize": 25, "color": 15138835, "midHash": "6113a6fa", "content": "【梦想天生】", "ctime": 1746157933, "weight": 2, "idStr": "1837664954758069504"}
+{"id": -578076672, "progress": 282340, "mode": 5, "fontsize": 25, "color": 15138835, "midHash": "6113a6fa", "content": "【梦想天生】", "ctime": 1746157953, "weight": 10, "idStr": "1837665124963008512"}
 {"id": -1895049728, "progress": 282340, "mode": 5, "fontsize": 25, "color": 15138835, "midHash": "6113a6fa", "content": "【梦想天生】", "ctime": 1746157974, "weight": 2, "idStr": "1837665295444727296"}
 {"id": -334785536, "progress": 302513, "mode": 5, "fontsize": 25, "color": 15138835, "midHash": "6113a6fa", "content": "直接用终符解决两个神明", "ctime": 1746157994, "weight": 2, "idStr": "1837665464508716032"}
 {"id": 1526838528, "progress": 26601, "mode": 1, "fontsize": 25, "color": 16777214, "midHash": "6113a6fa", "content": "完结撒花", "ctime": 1746158014, "weight": 3, "idStr": "1837665633874064640"}
@@ -3069,8 +3069,8 @@
 {"id": 1401646848, "progress": 781501, "mode": 1, "fontsize": 25, "color": 16777214, "midHash": "52034aa3", "content": "猴王出世。", "ctime": 1746173703, "weight": 1, "idStr": "1837797244431724288"}
 {"id": -402420480, "progress": 800692, "mode": 1, "fontsize": 25, "color": 16777214, "midHash": "52034aa3", "content": "天子", "ctime": 1746173727, "weight": 2, "idStr": "1837797440196152576"}
 {"id": 1267241728, "progress": 749523, "mode": 5, "fontsize": 25, "color": 15138835, "midHash": "52034aa3", "content": "茨木华扇！！！", "ctime": 1746173750, "weight": 2, "idStr": "1837797635139343104"}
-{"id": -1593154816, "progress": 749523, "mode": 5, "fontsize": 25, "color": 16707843, "midHash": "52034aa3", "content": "茨木华扇！！！", "ctime": 1746173773, "weight": 2, "idStr": "1837797829847442176"}
-{"id": 637902592, "progress": 749523, "mode": 5, "fontsize": 25, "color": 38980, "midHash": "52034aa3", "content": "茨木华扇！！！", "ctime": 1746173796, "weight": 10, "idStr": "1837798025352027904"}
+{"id": -1593154816, "progress": 749523, "mode": 5, "fontsize": 25, "color": 16707843, "midHash": "52034aa3", "content": "茨木华扇！！！", "ctime": 1746173773, "weight": 10, "idStr": "1837797829847442176"}
+{"id": 637902592, "progress": 749523, "mode": 5, "fontsize": 25, "color": 38980, "midHash": "52034aa3", "content": "茨木华扇！！！", "ctime": 1746173796, "weight": 2, "idStr": "1837798025352027904"}
 {"id": -1039917056, "progress": 749523, "mode": 5, "fontsize": 25, "color": 41195, "midHash": "52034aa3", "content": "茨木华扇！！！", "ctime": 1746173820, "weight": 10, "idStr": "1837798221242703872"}
 {"id": 646453248, "progress": 749523, "mode": 5, "fontsize": 25, "color": 14811774, "midHash": "52034aa3", "content": "茨木华扇！！！", "ctime": 1746173843, "weight": 2, "idStr": "1837798416202602496"}
 {"id": -1836435968, "progress": 749523, "mode": 5, "fontsize": 25, "color": 9487137, "midHash": "52034aa3", "content": "茨木华扇！！！", "ctime": 1746173866, "weight": 2, "idStr": "1837798611288208896"}
@@ -3156,8 +3156,8 @@
 {"id": 2072013312, "progress": 798442, "mode": 1, "fontsize": 25, "color": 16777214, "midHash": "52034aa3", "content": "背景音乐:カフカなる群青", "ctime": 1746175844, "weight": 2, "idStr": "1837815202360355328"}
 {"id": -58563584, "progress": 803202, "mode": 5, "fontsize": 25, "color": 41195, "midHash": "52034aa3", "content": "背景音乐:カフカなる群青", "ctime": 1746175867, "weight": 10, "idStr": "1837815397798274048"}
 {"id": 1736735232, "progress": 789613, "mode": 5, "fontsize": 25, "color": 41195, "midHash": "52034aa3", "content": "背景音乐:カフカなる群青", "ctime": 1746175891, "weight": 2, "idStr": "1837815592867101184"}
-{"id": -914157312, "progress": 790313, "mode": 5, "fontsize": 25, "color": 41195, "midHash": "52034aa3", "content": "背景音乐:カフカなる群青", "ctime": 1746175914, "weight": 2, "idStr": "1837815787784704256"}
-{"id": 620974848, "progress": 791993, "mode": 5, "fontsize": 25, "color": 41195, "midHash": "52034aa3", "content": "背景音乐:カフカなる群青", "ctime": 1746175937, "weight": 10, "idStr": "1837815982593364736"}
+{"id": -914157312, "progress": 790313, "mode": 5, "fontsize": 25, "color": 41195, "midHash": "52034aa3", "content": "背景音乐:カフカなる群青", "ctime": 1746175914, "weight": 10, "idStr": "1837815787784704256"}
+{"id": 620974848, "progress": 791993, "mode": 5, "fontsize": 25, "color": 41195, "midHash": "52034aa3", "content": "背景音乐:カフカなる群青", "ctime": 1746175937, "weight": 2, "idStr": "1837815982593364736"}
 {"id": 1392912640, "progress": 786770, "mode": 1, "fontsize": 25, "color": 16777214, "midHash": "52034aa3", "content": "天空一声巨响", "ctime": 1746175960, "weight": 2, "idStr": "1837816176638830848"}
 {"id": -654110464, "progress": 771026, "mode": 1, "fontsize": 25, "color": 16777214, "midHash": "52034aa3", "content": "唉:-(没了", "ctime": 1746175984, "weight": 7, "idStr": "1837816372160303360"}
 {"id": 780809728, "progress": 754249, "mode": 1, "fontsize": 25, "color": 16777214, "midHash": "52034aa3", "content": "2022年7月3号打卡", "ctime": 1746176007, "weight": 2, "idStr": "1837816566868751872"}
