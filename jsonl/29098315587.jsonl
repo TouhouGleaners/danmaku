@@ -20,7 +20,7 @@
 {"id": 1552206848, "progress": 328256, "mode": 5, "fontsize": 25, "color": 15138834, "midHash": "f3256e79", "content": "灵梦:累", "ctime": 1743695940, "weight": 10, "idStr": "1817012257159433216"}
 {"id": 621077760, "progress": 351496, "mode": 5, "fontsize": 25, "color": 15138834, "midHash": "f3256e79", "content": "永琳: 公主大人开心就好", "ctime": 1743695985, "weight": 10, "idStr": "1817012634185426176"}
 {"id": -1417312512, "progress": 356180, "mode": 5, "fontsize": 25, "color": 16707842, "midHash": "f3256e79", "content": "嗯，放烟花", "ctime": 1743696030, "weight": 10, "idStr": "1817013014399125248"}
-{"id": -1870297344, "progress": 283465, "mode": 1, "fontsize": 25, "color": 15138834, "midHash": "3da748fb", "content": "囍", "ctime": 1743829803, "weight": 3, "idStr": "1818135181526402816"}
+{"id": -1870297344, "progress": 283465, "mode": 1, "fontsize": 25, "color": 15138834, "midHash": "3da748fb", "content": "囍", "ctime": 1743829803, "weight": 2, "idStr": "1818135181526402816"}
 {"id": 1854068480, "progress": 355547, "mode": 1, "fontsize": 25, "color": 16777215, "midHash": "372b4aa2", "content": "好多头发有点羡慕", "ctime": 1743845193, "weight": 2, "idStr": "1818264283377751808"}
 {"id": 1862984192, "progress": 110948, "mode": 1, "fontsize": 25, "color": 16777215, "midHash": "18c3a872", "content": "所以嫦娥是造了个城吗？", "ctime": 1743857770, "weight": 9, "idStr": "1818369789258293760"}
 {"id": -326403584, "progress": 264212, "mode": 1, "fontsize": 25, "color": 16777215, "midHash": "18c3a872", "content": "这俩小情侣……", "ctime": 1743857839, "weight": 10, "idStr": "1818370366889490944"}
@@ -687,7 +687,7 @@
 {"id": 378097664, "progress": 152503, "mode": 1, "fontsize": 25, "color": 16777215, "midHash": "9c14c6ff", "content": "灵梦搞符卡后，所有战斗都不会出人命，不肯遵守符卡规则的妖怪，应该都已经被灵梦弄死了", "ctime": 1753261380, "weight": 1, "idStr": "1897252982492844032"}
 {"id": 260417280, "progress": 284224, "mode": 1, "fontsize": 25, "color": 16777215, "midHash": "bdc89a61", "content": "99", "ctime": 1753421397, "weight": 2, "idStr": "1898595301389084416"}
 {"id": 1644185088, "progress": 291724, "mode": 1, "fontsize": 25, "color": 16777215, "midHash": "bdc89a61", "content": "99", "ctime": 1753421404, "weight": 2, "idStr": "1898595362902394368"}
-{"id": -91811072, "progress": 296558, "mode": 1, "fontsize": 25, "color": 16777215, "midHash": "bdc89a61", "content": "99", "ctime": 1753421439, "weight": 10, "idStr": "1898595657519141632"}
+{"id": -91811072, "progress": 296558, "mode": 1, "fontsize": 25, "color": 16777215, "midHash": "bdc89a61", "content": "99", "ctime": 1753421439, "weight": 9, "idStr": "1898595657519141632"}
 {"id": 394668032, "progress": 315029, "mode": 1, "fontsize": 25, "color": 16777215, "midHash": "64fcafb9", "content": "那便战吧！", "ctime": 1753456559, "weight": 1, "idStr": "1898890262697355264"}
 {"id": -1174304000, "progress": 329930, "mode": 1, "fontsize": 25, "color": 16777215, "midHash": "64fcafb9", "content": "灵梦想摸鱼了", "ctime": 1753456595, "weight": 10, "idStr": "1898890570366028544"}
 {"id": 562586880, "progress": 296934, "mode": 5, "fontsize": 25, "color": 16777215, "midHash": "809fe5d4", "content": "此时就怕上面突然出现久本雅美的脸", "ctime": 1753610316, "weight": 10, "idStr": "1900180075904001280"}
@@ -711,11 +711,14 @@
 {"id": -1677513728, "progress": 294049, "mode": 1, "fontsize": 25, "color": 16777215, "midHash": "a9de6432", "content": "99", "ctime": 1754058092, "weight": 3, "idStr": "1903936288852225024"}
 {"id": 2122415616, "progress": 319750, "mode": 1, "fontsize": 25, "color": 16777215, "midHash": "9d277fb3", "content": "幻想乡传统", "ctime": 1754058313, "weight": 3, "idStr": "1903938143783058944"}
 {"id": 1787580416, "progress": 291240, "mode": 1, "fontsize": 25, "color": 16777215, "midHash": "90a73b70", "content": "欧呵", "ctime": 1754364860, "weight": 2, "idStr": "1906509643447554048"}
-{"id": 1099620096, "progress": 298335, "mode": 5, "fontsize": 25, "color": 15138834, "midHash": "90a73b70", "content": "魔理沙看傻了", "ctime": 1754364960, "weight": 4, "idStr": "1906510484573183744"}
+{"id": 1099620096, "progress": 298335, "mode": 5, "fontsize": 25, "color": 15138834, "midHash": "90a73b70", "content": "魔理沙看傻了", "ctime": 1754364960, "weight": 10, "idStr": "1906510484573183744"}
 {"id": -1836522752, "progress": 337507, "mode": 1, "fontsize": 25, "color": 16777215, "midHash": "abcc4431", "content": "这对吗？", "ctime": 1754524782, "weight": 2, "idStr": "1907851168563389184"}
 {"id": -41712128, "progress": 95999, "mode": 1, "fontsize": 25, "color": 16777215, "midHash": "e4c7dd09", "content": "uuz:我咋记得我啥也没干", "ctime": 1754639421, "weight": 8, "idStr": "1908812830715643392"}
 {"id": 2039244288, "progress": 281475, "mode": 1, "fontsize": 25, "color": 15138834, "midHash": "a6143558", "content": "囍囍囍", "ctime": 1754797748, "weight": 2, "idStr": "1910140974123476480"}
 {"id": -1878592768, "progress": 11322, "mode": 1, "fontsize": 25, "color": 16777215, "midHash": "9d15902e", "content": "？？？？", "ctime": 1755104139, "weight": 3, "idStr": "1912711164534911744"}
+{"id": 1560752384, "progress": 297255, "mode": 1, "fontsize": 25, "color": 15138834, "midHash": "80f5c814", "content": "喜", "ctime": 1755507596, "weight": 8, "idStr": "1916095615088406784"}
+{"id": -930633216, "progress": 231856, "mode": 1, "fontsize": 25, "color": 16777215, "midHash": "d450da74", "content": "老板大气", "ctime": 1755605743, "weight": 3, "idStr": "1916918932057860608"}
+{"id": 1308788480, "progress": 344328, "mode": 5, "fontsize": 25, "color": 6830715, "midHash": "6ce16794", "content": "人话：差不多到半夜了，我得要睡觉了", "ctime": 1755739200, "weight": 10, "idStr": "1918038443292788480"}
 {"id": 1477110528, "progress": 362373, "mode": 5, "fontsize": 25, "color": 16777215, "midHash": "d8e0b037", "content": "bgm：飘上月球 不死之烟", "ctime": 1743237085, "weight": 11, "idStr": "1813163107393661696"}
 {"id": 1761730560, "progress": 424157, "mode": 5, "fontsize": 25, "color": 15138834, "midHash": "c5cffe9f", "content": "妹红:下次可不要再迷路了喽，小家伙", "ctime": 1743316418, "weight": 11, "idStr": "1813828599975895040"}
 {"id": -1652401152, "progress": 449125, "mode": 5, "fontsize": 25, "color": 14811775, "midHash": "c5cffe9f", "content": "笼罩在辉夜心中的永夜也一扫放晴了", "ctime": 1743316528, "weight": 11, "idStr": "1813829519979731968"}
@@ -751,15 +754,15 @@
 {"id": -418866432, "progress": 480975, "mode": 1, "fontsize": 25, "color": 16777215, "midHash": "18c3a872", "content": "等一下，手机？", "ctime": 1743858222, "weight": 11, "idStr": "1818373579432565504"}
 {"id": 1342813440, "progress": 535906, "mode": 1, "fontsize": 25, "color": 16777215, "midHash": "18c3a872", "content": "下面的森林：柠檬熟了，柠檬我酸，我吃柠檬。", "ctime": 1743858304, "weight": 5, "idStr": "1818374264094045440"}
 {"id": 269144320, "progress": 543656, "mode": 1, "fontsize": 25, "color": 16777215, "midHash": "18c3a872", "content": "是紫色的先祖！太好了，又可以多一个动作了！（光遇玩家突然发病）", "ctime": 1743858346, "weight": 2, "idStr": "1818374619502661888"}
-{"id": 411582464, "progress": 551813, "mode": 1, "fontsize": 25, "color": 16777215, "midHash": "18c3a872", "content": "那个绿头发的女的的头饰是青蛙吗？", "ctime": 1743858402, "weight": 8, "idStr": "1818375087796535296"}
+{"id": 411582464, "progress": 551813, "mode": 1, "fontsize": 25, "color": 16777215, "midHash": "18c3a872", "content": "那个绿头发的女的的头饰是青蛙吗？", "ctime": 1743858402, "weight": 7, "idStr": "1818375087796535296"}
 {"id": 1829244416, "progress": 593005, "mode": 1, "fontsize": 25, "color": 16777215, "midHash": "18c3a872", "content": "这女人心胸宽广啊（物理）", "ctime": 1743858455, "weight": 1, "idStr": "1818375535890796032"}
 {"id": -1107103744, "progress": 551695, "mode": 1, "fontsize": 25, "color": 16777215, "midHash": "79e850ea", "content": "光之子收收味", "ctime": 1743906166, "weight": 1, "idStr": "1818775759481925632"}
-{"id": -1769888000, "progress": 575917, "mode": 1, "fontsize": 25, "color": 16777215, "midHash": "9fbc1d8f", "content": "紫妈在干什么", "ctime": 1743975954, "weight": 9, "idStr": "1819361184336422656"}
+{"id": -1769888000, "progress": 575917, "mode": 1, "fontsize": 25, "color": 16777215, "midHash": "9fbc1d8f", "content": "紫妈在干什么", "ctime": 1743975954, "weight": 10, "idStr": "1819361184336422656"}
 {"id": -1459489536, "progress": 377873, "mode": 1, "fontsize": 25, "color": 16777215, "midHash": "ce54d990", "content": "最强笨蛋", "ctime": 1744098063, "weight": 10, "idStr": "1820385508577113344"}
 {"id": 1988242688, "progress": 464273, "mode": 1, "fontsize": 25, "color": 16777215, "midHash": "ce54d990", "content": "爽了", "ctime": 1744098149, "weight": 7, "idStr": "1820386233579351296"}
 {"id": -1677096704, "progress": 363083, "mode": 1, "fontsize": 25, "color": 16777215, "midHash": "97b911b3", "content": "唉过年了吗", "ctime": 1744188710, "weight": 2, "idStr": "1821145910844426496"}
-{"id": 1971541248, "progress": 433226, "mode": 1, "fontsize": 25, "color": 16777215, "midHash": "4e750c33", "content": "字幕君好评", "ctime": 1744299935, "weight": 3, "idStr": "1822078940303545600"}
-{"id": -2104821248, "progress": 586029, "mode": 1, "fontsize": 25, "color": 16777215, "midHash": "1719aa0a", "content": "我来开启巨大宝箱", "ctime": 1744691545, "weight": 3, "idStr": "1825363997798103552"}
+{"id": 1971541248, "progress": 433226, "mode": 1, "fontsize": 25, "color": 16777215, "midHash": "4e750c33", "content": "字幕君好评", "ctime": 1744299935, "weight": 10, "idStr": "1822078940303545600"}
+{"id": -2104821248, "progress": 586029, "mode": 1, "fontsize": 25, "color": 16777215, "midHash": "1719aa0a", "content": "我来开启巨大宝箱", "ctime": 1744691545, "weight": 8, "idStr": "1825363997798103552"}
 {"id": -653731584, "progress": 364060, "mode": 1, "fontsize": 25, "color": 16777215, "midHash": "b54a4bf", "content": "可爱捏", "ctime": 1744790265, "weight": 2, "idStr": "1826192120483469568"}
 {"id": 17010432, "progress": 468805, "mode": 5, "fontsize": 25, "color": 16777215, "midHash": "c210615b", "content": "少女道馆中", "ctime": 1745296935, "weight": 11, "idStr": "1830442377840660224"}
 {"id": -444237056, "progress": 440536, "mode": 1, "fontsize": 25, "color": 16777215, "midHash": "a575283", "content": "转瞬即逝（）", "ctime": 1745649215, "weight": 4, "idStr": "1833397516742523648"}
@@ -767,7 +770,7 @@
 {"id": -1543228928, "progress": 476877, "mode": 5, "fontsize": 25, "color": 41194, "midHash": "f5d84f5", "content": "上头指的是饭纲丸龙吧？", "ctime": 1745900996, "weight": 10, "idStr": "1835509613055980032"}
 {"id": 2022001408, "progress": 493206, "mode": 1, "fontsize": 25, "color": 16777215, "midHash": "55c07126", "content": "赞，还是右声道的", "ctime": 1745945218, "weight": 3, "idStr": "1835880568651598592"}
 {"id": 243616256, "progress": 593377, "mode": 1, "fontsize": 25, "color": 16777215, "midHash": "8851b8e", "content": "别走！结尾有正片", "ctime": 1746091034, "weight": 7, "idStr": "1837103764969179648"}
-{"id": -24742144, "progress": 585569, "mode": 5, "fontsize": 25, "color": 16777215, "midHash": "8851b8e", "content": "别走！结尾有正片", "ctime": 1746091047, "weight": 5, "idStr": "1837103876369970944"}
+{"id": -24742144, "progress": 585569, "mode": 5, "fontsize": 25, "color": 16777215, "midHash": "8851b8e", "content": "别走！结尾有正片", "ctime": 1746091047, "weight": 4, "idStr": "1837103876369970944"}
 {"id": -1274784512, "progress": 561195, "mode": 1, "fontsize": 25, "color": 16777215, "midHash": "ee904887", "content": "灵梦：淦，来了个抢饭碗的我自己都不够吃", "ctime": 1746203937, "weight": 11, "idStr": "1838050863869089024"}
 {"id": 529085184, "progress": 596171, "mode": 5, "fontsize": 25, "color": 16777215, "midHash": "9e7f590c", "content": "空降11：25", "ctime": 1746204841, "weight": 10, "idStr": "1838058441995268864"}
 {"id": -1693720832, "progress": 448852, "mode": 1, "fontsize": 25, "color": 16777215, "midHash": "2ea7a212", "content": "燃尽了", "ctime": 1746269669, "weight": 9, "idStr": "1838602264236515072"}
@@ -1502,14 +1505,14 @@
 {"id": 578966272, "progress": 405226, "mode": 1, "fontsize": 25, "color": 16777214, "midHash": "e21b811a", "content": "红师傅还在睡觉", "ctime": 1746717709, "weight": 11, "idStr": "1842360697900651264"}
 {"id": -1341492736, "progress": 435040, "mode": 1, "fontsize": 25, "color": 16777214, "midHash": "e21b811a", "content": "温暖的世界", "ctime": 1746717730, "weight": 11, "idStr": "1842360867778884096"}
 {"id": -897224960, "progress": 523350, "mode": 1, "fontsize": 25, "color": 16777214, "midHash": "e21b811a", "content": "橙好像会藏在蓝的尾巴里", "ctime": 1746717770, "weight": 11, "idStr": "1842361207525568256"}
-{"id": -1106627840, "progress": 428503, "mode": 1, "fontsize": 25, "color": 16777215, "midHash": "e3ebff73", "content": "装饰", "ctime": 1747163664, "weight": 9, "idStr": "1846101638499676928"}
+{"id": -1106627840, "progress": 428503, "mode": 1, "fontsize": 25, "color": 16777215, "midHash": "e3ebff73", "content": "装饰", "ctime": 1747163664, "weight": 6, "idStr": "1846101638499676928"}
 {"id": -1634985472, "progress": 362784, "mode": 1, "fontsize": 25, "color": 9033214, "midHash": "93cc2b09", "content": "妹红背上也有个笨蛋（doge）", "ctime": 1748534662, "weight": 9, "idStr": "1857602400748837376"}
 {"id": -1173771264, "progress": 436905, "mode": 5, "fontsize": 25, "color": 15138835, "midHash": "93cc2b09", "content": "幻想乡玩弹幕游戏的都会飞", "ctime": 1748534965, "weight": 2, "idStr": "1857604939535723520"}
 {"id": -418884608, "progress": 548599, "mode": 1, "fontsize": 25, "color": 16777214, "midHash": "93cc2b09", "content": "紫：这样可以让灵梦少点摸鱼，顺便维持幻想乡的平衡（doge）", "ctime": 1748535025, "weight": 11, "idStr": "1857605447096751104"}
 {"id": 898252800, "progress": 361328, "mode": 1, "fontsize": 25, "color": 16777214, "midHash": "93cc2b09", "content": "是不是你背上的那个?(doge)", "ctime": 1748535146, "weight": 1, "idStr": "1857606462026170368"}
 {"id": -620136960, "progress": 545589, "mode": 5, "fontsize": 25, "color": 15138834, "midHash": "622d0396", "content": "awmc", "ctime": 1748761571, "weight": 10, "idStr": "1859505853959861760"}
 {"id": 1191524352, "progress": 440166, "mode": 1, "fontsize": 25, "color": 16707842, "midHash": "564b7a55", "content": "每一帧都是壁纸", "ctime": 1749230468, "weight": 5, "idStr": "1863439242655774720"}
-{"id": 1074181376, "progress": 579462, "mode": 1, "fontsize": 25, "color": 15138834, "midHash": "4628c9e8", "content": "注：这里是妖怪之山，所以基本没有人来参拜，于是后面在博丽建了一个分社", "ctime": 1749333746, "weight": 3, "idStr": "1864305606161511680"}
+{"id": 1074181376, "progress": 579462, "mode": 1, "fontsize": 25, "color": 15138834, "midHash": "4628c9e8", "content": "注：这里是妖怪之山，所以基本没有人来参拜，于是后面在博丽建了一个分社", "ctime": 1749333746, "weight": 4, "idStr": "1864305606161511680"}
 {"id": -662345728, "progress": 416123, "mode": 1, "fontsize": 25, "color": 16777215, "midHash": "c5979098", "content": "姆Q", "ctime": 1749558583, "weight": 6, "idStr": "1866191674888513536"}
 {"id": -1777656576, "progress": 451859, "mode": 1, "fontsize": 25, "color": 16777215, "midHash": "61dceb79", "content": "倒头就睡", "ctime": 1749951201, "weight": 5, "idStr": "1869485187839761664"}
 {"id": 168336384, "progress": 614382, "mode": 5, "fontsize": 25, "color": 16777215, "midHash": "94946258", "content": "出现了，正片不存在的角色（）", "ctime": 1750256035, "weight": 2, "idStr": "1872042323119479808"}
@@ -1523,7 +1526,7 @@
 {"id": -335087872, "progress": 378978, "mode": 5, "fontsize": 25, "color": 16777215, "midHash": "285c6e59", "content": "阿空：？", "ctime": 1752063228, "weight": 8, "idStr": "1887202161306564352"}
 {"id": -1761158912, "progress": 716211, "mode": 5, "fontsize": 25, "color": 16777215, "midHash": "285c6e59", "content": "妹红：辉夜这个b又搞什么飞机", "ctime": 1752063556, "weight": 1, "idStr": "1887204908659562752"}
 {"id": -720817152, "progress": 376886, "mode": 1, "fontsize": 25, "color": 15138834, "midHash": "97be1c5f", "content": "妹红好撩啊啊啊", "ctime": 1752197409, "weight": 1, "idStr": "1888327747295065088"}
-{"id": -1928677888, "progress": 427499, "mode": 1, "fontsize": 25, "color": 15138834, "midHash": "97be1c5f", "content": "妹红好帅", "ctime": 1752197517, "weight": 2, "idStr": "1888328652325303808"}
+{"id": -1928677888, "progress": 427499, "mode": 1, "fontsize": 25, "color": 15138834, "midHash": "97be1c5f", "content": "妹红好帅", "ctime": 1752197517, "weight": 9, "idStr": "1888328652325303808"}
 {"id": -746249216, "progress": 443138, "mode": 1, "fontsize": 25, "color": 16777215, "midHash": "9d4dd2f6", "content": "满 身 疮 痍", "ctime": 1752223079, "weight": 1, "idStr": "1888543088339919872"}
 {"id": 562483456, "progress": 625637, "mode": 1, "fontsize": 25, "color": 16777215, "midHash": "76455f13", "content": ".", "ctime": 1752304021, "weight": 3, "idStr": "1889222076733509888"}
 {"id": 1980384000, "progress": 377897, "mode": 5, "fontsize": 25, "color": 15772458, "midHash": "f00bf58f", "content": "说的好对...强弱与笨蛋可没有任何关系", "ctime": 1752550675, "weight": 10, "idStr": "1891291161466389248"}
@@ -1534,7 +1537,7 @@
 {"id": 17120000, "progress": 464864, "mode": 5, "fontsize": 25, "color": 41194, "midHash": "dfe2ec55", "content": "少女复活中", "ctime": 1753163753, "weight": 2, "idStr": "1896434030652766976"}
 {"id": 520474880, "progress": 684422, "mode": 5, "fontsize": 25, "color": 14811775, "midHash": "dfe2ec55", "content": "在？连ed也跳？", "ctime": 1753163978, "weight": 10, "idStr": "1896435916646764800"}
 {"id": -805152256, "progress": 537805, "mode": 5, "fontsize": 25, "color": 16777215, "midHash": "43454edd", "content": "awmc↑", "ctime": 1753242534, "weight": 2, "idStr": "1897094896448330240"}
-{"id": 898380032, "progress": 581193, "mode": 1, "fontsize": 25, "color": 16777215, "midHash": "9c14c6ff", "content": "其实以灵梦的懒散，要是早苗她们没有主动去踢馆找麻烦，灵梦根本不会去管什么妖怪神社", "ctime": 1753261921, "weight": 2, "idStr": "1897257527088525568"}
+{"id": 898380032, "progress": 581193, "mode": 1, "fontsize": 25, "color": 16777215, "midHash": "9c14c6ff", "content": "其实以灵梦的懒散，要是早苗她们没有主动去踢馆找麻烦，灵梦根本不会去管什么妖怪神社", "ctime": 1753261921, "weight": 3, "idStr": "1897257527088525568"}
 {"id": -847067392, "progress": 413247, "mode": 1, "fontsize": 25, "color": 16777215, "midHash": "64fcafb9", "content": "红师傅站在门口就开始睡了", "ctime": 1753456698, "weight": 8, "idStr": "1898891429686724352"}
 {"id": 1753451264, "progress": 442594, "mode": 5, "fontsize": 25, "color": 16777215, "midHash": "64fcafb9", "content": "一本满足", "ctime": 1753456737, "weight": 2, "idStr": "1898891762999724800"}
 {"id": 58743808, "progress": 457692, "mode": 5, "fontsize": 25, "color": 16777215, "midHash": "64fcafb9", "content": "辉夜可不菜啊，只是受限于弹幕游戏规则而已", "ctime": 1753456773, "weight": 10, "idStr": "1898892061952728064"}
@@ -1546,9 +1549,11 @@
 {"id": 1460254464, "progress": 460792, "mode": 5, "fontsize": 25, "color": 15138834, "midHash": "90a73b70", "content": "复活了", "ctime": 1754365751, "weight": 2, "idStr": "1906517120658290432"}
 {"id": 210310912, "progress": 547453, "mode": 1, "fontsize": 25, "color": 16777215, "midHash": "a6143558", "content": "今天灵梦不在家~", "ctime": 1754838074, "weight": 1, "idStr": "1910479256803677952"}
 {"id": 1636496896, "progress": 589613, "mode": 1, "fontsize": 25, "color": 16707842, "midHash": "a6143558", "content": "好大呀！（有端联想）", "ctime": 1754838147, "weight": 1, "idStr": "1910479863820252672"}
-{"id": 1703633408, "progress": 421989, "mode": 1, "fontsize": 25, "color": 16777215, "midHash": "4f6e8c51", "content": "芙兰： nm太阳什么时候出来了", "ctime": 1755070913, "weight": 11, "idStr": "1912432446214464000"}
+{"id": 1703633408, "progress": 421989, "mode": 1, "fontsize": 25, "color": 16777215, "midHash": "4f6e8c51", "content": "芙兰： nm太阳什么时候出来了", "ctime": 1755070913, "weight": 3, "idStr": "1912432446214464000"}
 {"id": -133567232, "progress": 497739, "mode": 5, "fontsize": 25, "color": 16777215, "midHash": "1e190f68", "content": "简直是从蓝的尾巴里钻出来的", "ctime": 1755082032, "weight": 1, "idStr": "1912525722476997888"}
 {"id": -24989696, "progress": 451769, "mode": 1, "fontsize": 25, "color": 16777215, "midHash": "1d848436", "content": "似了", "ctime": 1755318192, "weight": 1, "idStr": "1914506771955888128"}
+{"id": -1970999808, "progress": 441231, "mode": 5, "fontsize": 25, "color": 16777215, "midHash": "57920fd5", "content": "似了（）", "ctime": 1755410426, "weight": 1, "idStr": "1915280486893415936"}
+{"id": 1216530432, "progress": 599728, "mode": 1, "fontsize": 25, "color": 16777215, "midHash": "4cab38c3", "content": "蓬莱之烟，飘上月球", "ctime": 1755751308, "weight": 8, "idStr": "1918140019177080832"}
 {"id": -1954305792, "progress": 739744, "mode": 5, "fontsize": 25, "color": 15138834, "midHash": "c5cffe9f", "content": "妹红:不错，豪礼就是咱", "ctime": 1743330119, "weight": 1, "idStr": "1813943533879666944"}
 {"id": 461800704, "progress": 745226, "mode": 1, "fontsize": 25, "color": 16646914, "midHash": "adad885f", "content": "烟民妹红", "ctime": 1743889795, "weight": 11, "idStr": "1818638433766507776"}
 {"id": -1417336832, "progress": 737641, "mode": 1, "fontsize": 25, "color": 16777214, "midHash": "e21b811a", "content": "请一群妖魔鬼怪去试胆", "ctime": 1746708083, "weight": 11, "idStr": "1842279941929248768"}
